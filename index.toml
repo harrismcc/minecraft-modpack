@@ -212,3 +212,8 @@ metafile = true
 file = "resourcepacks/toms-create-storage.pw.toml"
 hash = "b4110ca093569b5df0f4f74651f3ec241f11f1ab24ce1ecb15bdb7e8a4f6972c"
 metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "68b79902d98bc38e4705b621dcc54321e35742f696b462070d457cf7156d7921"
+metafile = true
