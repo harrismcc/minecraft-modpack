@@ -1,0 +1,13 @@
+name = "Azure Paxels"
+filename = "azure-paxels-1.20.2-1.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sUlkLN1E/versions/C2zy1KjV/azure-paxels-1.20.2-1.0.10.jar"
+hash-format = "sha1"
+hash = "e11659f3f8273f8dbea7519c60092371e1d0902b"
+
+[update]
+[update.modrinth]
+mod-id = "sUlkLN1E"
+version = "C2zy1KjV"
