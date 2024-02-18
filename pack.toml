@@ -1,12 +1,12 @@
 name = "Siim's Create+"
 author = "siim"
-version = "1.0.0-beta.2"
+version = "1.0.0-beta.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d2872b3501161810aca0b73db1a3dba5a0c9c68df6b725ff03c1daefe7c3ed19"
+hash = "addaeac7832ff3e61def090a54f88be61093505ad26f187ca7a507aec2da43fe"
 
 [versions]
 fabric = "0.15.7"
