@@ -29,11 +29,6 @@ hash = "9b9cba3fa724134f59e95816e95b980fe9bc6f30798351f9b0628d463fecda3b"
 metafile = true
 
 [[files]]
-file = "mods/azure-paxels.pw.toml"
-hash = "7cba770456fb33dabacfcfd2376f91e73a0be112c63b7348be96ecfee2ee0900"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "bc6cff8321b751c945afba46e462c09c701d970f1761abc5bbbd507147a66240"
 metafile = true
