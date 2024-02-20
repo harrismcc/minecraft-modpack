@@ -13,8 +13,8 @@ file = "README.md"
 hash = "88714e6520432199568b80be32afb93d1cf6416a51d19f11d1dbf79d929089d6"
 
 [[files]]
-file = "export/siims-simple-create-1.0.0-beta.4.zip"
-hash = "af1ffd44d270688bd7f4a084b3b69923ec42fc028babcd7feee60142a663bb99"
+file = "export/siims-simple-create-1.0.0-beta.5.zip"
+hash = "4928252efe76b9a83a7dbadd4efa8bf0b750e8db8ecade2943df36e241f689a6"
 
 [[files]]
 file = "mods/adaptive-tooltips.pw.toml"
@@ -45,6 +45,10 @@ metafile = true
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
+
+[[files]]
+file = "mods/config/NoChatReports/NCR-Client.json"
+hash = "a8bc7c0df277d56c39a97e8bf21c20f10d8b8f8f8b21a7eecc02dae6b4defef3"
 
 [[files]]
 file = "mods/config/bcc.json"
