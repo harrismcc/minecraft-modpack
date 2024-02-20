@@ -13,8 +13,16 @@ file = "README.md"
 hash = "88714e6520432199568b80be32afb93d1cf6416a51d19f11d1dbf79d929089d6"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "a8bc7c0df277d56c39a97e8bf21c20f10d8b8f8f8b21a7eecc02dae6b4defef3"
+
+[[files]]
+file = "config/bcc.json"
+hash = "42a4d28d0a3c7d29ac51addd4d3071e9844fbe99f53c3c1d9d51b28e43c51efb"
+
+[[files]]
 file = "export/siims-simple-create-1.0.0-beta.5.zip"
-hash = "53d02cd96f136de515e5709b38bc2003cfcc53f818716ce831e195a395f371db"
+hash = "405c90eeca69bc8deff0f75684c76a522463cc063d1ac657e75fad8e6f0aa21e"
 
 [[files]]
 file = "mods/adaptive-tooltips.pw.toml"
@@ -50,14 +58,6 @@ metafile = true
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
-
-[[files]]
-file = "mods/config/NoChatReports/NCR-Client.json"
-hash = "a8bc7c0df277d56c39a97e8bf21c20f10d8b8f8f8b21a7eecc02dae6b4defef3"
-
-[[files]]
-file = "mods/config/bcc.json"
-hash = "8f5fd0f36676e44b33c599d1daced6b3161b4bbb4b46e1c7ab2cb90f17a07b64"
 
 [[files]]
 file = "mods/create-deco.pw.toml"
@@ -245,13 +245,9 @@ hash = "378436896fd3c9984938e3a6aa16565eb15c75ab1160332becc5c5ed4bd54505"
 
 [[files]]
 file = "scripts/set-bcc-config.sh"
-hash = "82bad19e002ae1d60cc6f8f7456dc568a52106201070075a32b029d9c487b464"
+hash = "26518fe16fb44ad739fb32ba42fbaea8b296b97f103906d21cfb0354261a598d"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "68b79902d98bc38e4705b621dcc54321e35742f696b462070d457cf7156d7921"
 metafile = true
-
-[[files]]
-file = "temp.json"
-hash = "e5f6baf359d2b05f7dc84c922e68b0a00936f27bd6ace4222b10427156470508"
