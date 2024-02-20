@@ -1,12 +1,12 @@
 name = "Siim's Simple Create"
 author = "siim"
-version = "1.0.0-beta.4"
+version = "1.0.0-beta.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b270aba5d223ed52b7ae75690ebd594aa3faf6cd3b5bf91b625ff650e60fc0a6"
+hash = "0734b354e1fdb3a2ecd22a240d9aded90bd58931020f648304d457b013e5b111"
 
 [versions]
 fabric = "0.15.7"

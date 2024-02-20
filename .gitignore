@@ -1,1 +1,8 @@
+# Ignore anything in the export folder
 /export
+
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack

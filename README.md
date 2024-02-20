@@ -15,3 +15,11 @@ Featured Mods include:
 # Contributing
 
 If you notice issues while using the pack, or have suggestions for new mods or changes, feel free to [submit an issue on GitHub](https://github.com/harrismcc/minecraft-modpack/issues). I'll look through these periodically and make comments in the thread there.
+
+# Using The Pack
+
+This modpack is created using [packwiz](https://packwiz.infra.link/) which is able to manage the pack as code, and export it to both Modrinth and Forge.
+
+You can download the latest release [here](https://github.com/harrismcc/minecraft-modpack/releases/latest). Use the file ending in `.mrpack` for modrinth, or the zip file for forge.
+
+This pack is pending approval on Modrinth, but once approved it will be listed there and the latest version will be pushed there as well.

@@ -10,7 +10,7 @@ hash = "c64398af7e230134513214e598a97aae9f33768f7ff6cb5cefd4ea87226340d3"
 
 [[files]]
 file = "README.md"
-hash = "e99fa7c73250b565a813fac2b9f76202c19298e737e5ed095d2321f79489e238"
+hash = "88714e6520432199568b80be32afb93d1cf6416a51d19f11d1dbf79d929089d6"
 
 [[files]]
 file = "export/siims-simple-create-1.0.0-beta.4.zip"
@@ -245,4 +245,4 @@ metafile = true
 
 [[files]]
 file = "temp.json"
-hash = "8f5fd0f36676e44b33c599d1daced6b3161b4bbb4b46e1c7ab2cb90f17a07b64"
+hash = "e5f6baf359d2b05f7dc84c922e68b0a00936f27bd6ace4222b10427156470508"
