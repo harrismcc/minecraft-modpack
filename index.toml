@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".pre-commit-config.yaml"
+hash = "e33cfcb332d4204007a4c52a51982c47b34b635376e66e306aee55b5383dd997"
+
+[[files]]
 file = "Makefile"
 hash = "8c040da219a63fb6e626935c6d4b48b6f12d5c6739421a849c698d8dcbfa3740"
 
@@ -81,11 +85,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
-metafile = true
-
-[[files]]
-file = "mods/extended-drawers.pw.toml"
-hash = "06859e85abd86899e44b38c090d53f5804550aca2a23924fbb6bb1867d0b859a"
 metafile = true
 
 [[files]]
@@ -222,6 +221,10 @@ metafile = true
 file = "resourcepacks/toms-create-storage.pw.toml"
 hash = "b4110ca093569b5df0f4f74651f3ec241f11f1ab24ce1ecb15bdb7e8a4f6972c"
 metafile = true
+
+[[files]]
+file = "scripts/packwiz-refresh.sh"
+hash = "378436896fd3c9984938e3a6aa16565eb15c75ab1160332becc5c5ed4bd54505"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
