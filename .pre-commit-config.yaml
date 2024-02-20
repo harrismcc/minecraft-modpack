@@ -15,3 +15,8 @@ repos:
         description: This hook runs the `packwiz refresh` command
         entry: ./scripts/packwiz-refresh.sh
         language: script
+      - id: bcc-update-json
+        name: Update Better Compatability Checker json
+        description: Updates the `bcc.json` file with version information
+        entry: ./scripts/set-bcc-config.sh
+        language: script

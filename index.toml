@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = ".pre-commit-config.yaml"
-hash = "e33cfcb332d4204007a4c52a51982c47b34b635376e66e306aee55b5383dd997"
+hash = "0075f7f4222332d40e6af65059e7daf3d3dc2ed2af90f048b479cc59afe9d338"
 
 [[files]]
 file = "Makefile"
 hash = "c64398af7e230134513214e598a97aae9f33768f7ff6cb5cefd4ea87226340d3"
+
+[[files]]
+file = "README.md"
+hash = "e99fa7c73250b565a813fac2b9f76202c19298e737e5ed095d2321f79489e238"
 
 [[files]]
 file = "export/siims-simple-create-1.0.0-beta.4.zip"
@@ -41,6 +45,10 @@ metafile = true
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
+
+[[files]]
+file = "mods/config/bcc.json"
+hash = "8f5fd0f36676e44b33c599d1daced6b3161b4bbb4b46e1c7ab2cb90f17a07b64"
 
 [[files]]
 file = "mods/create-deco.pw.toml"
@@ -227,6 +235,14 @@ file = "scripts/packwiz-refresh.sh"
 hash = "378436896fd3c9984938e3a6aa16565eb15c75ab1160332becc5c5ed4bd54505"
 
 [[files]]
+file = "scripts/set-bcc-config.sh"
+hash = "82bad19e002ae1d60cc6f8f7456dc568a52106201070075a32b029d9c487b464"
+
+[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "68b79902d98bc38e4705b621dcc54321e35742f696b462070d457cf7156d7921"
 metafile = true
+
+[[files]]
+file = "temp.json"
+hash = "8f5fd0f36676e44b33c599d1daced6b3161b4bbb4b46e1c7ab2cb90f17a07b64"
