@@ -6,11 +6,11 @@ hash = "e33cfcb332d4204007a4c52a51982c47b34b635376e66e306aee55b5383dd997"
 
 [[files]]
 file = "Makefile"
-hash = "8c040da219a63fb6e626935c6d4b48b6f12d5c6739421a849c698d8dcbfa3740"
+hash = "c64398af7e230134513214e598a97aae9f33768f7ff6cb5cefd4ea87226340d3"
 
 [[files]]
-file = "export/siims-create+-1.0.0-beta.4.zip"
-hash = "31c486eca8c46b430a398bc2d7a2f092a898c21b987bf1adbc4e31c60d972630"
+file = "export/siims-simple-create-1.0.0-beta.4.zip"
+hash = "af1ffd44d270688bd7f4a084b3b69923ec42fc028babcd7feee60142a663bb99"
 
 [[files]]
 file = "mods/adaptive-tooltips.pw.toml"
