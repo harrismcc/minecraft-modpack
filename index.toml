@@ -6,7 +6,7 @@ hash = "8c040da219a63fb6e626935c6d4b48b6f12d5c6739421a849c698d8dcbfa3740"
 
 [[files]]
 file = "export/siims-create+-1.0.0-beta.3.zip"
-hash = "a2e17a43eb6f6d6c46fd203f8b50d056befca5c883303d213b11bf138521c523"
+hash = "03fec0aef284956a5ad544120b64fc42278fbf9b31121c10cf6f2f82b5a21b27"
 
 [[files]]
 file = "mods/adaptive-tooltips.pw.toml"
@@ -176,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
+metafile = true
+
+[[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "bb57d8a6c0f2ec81e97915c00affaa644415b1d41f897d23a4972d0e9a2d5732"
 metafile = true
 
 [[files]]
