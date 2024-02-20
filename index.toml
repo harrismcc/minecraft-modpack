@@ -6,7 +6,7 @@ hash = "8c040da219a63fb6e626935c6d4b48b6f12d5c6739421a849c698d8dcbfa3740"
 
 [[files]]
 file = "export/siims-create+-1.0.0-beta.3.zip"
-hash = "29541d1f9dca10bb7c14b86317a1b70c309ac1fa1ea1ecb5a0e730d3d8ece965"
+hash = "a2e17a43eb6f6d6c46fd203f8b50d056befca5c883303d213b11bf138521c523"
 
 [[files]]
 file = "mods/adaptive-tooltips.pw.toml"
@@ -129,11 +129,6 @@ hash = "169c556d113a560237df18bd07a7247ffb747cf0d5be105462dfa55f5a19c0e1"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "e9c1efd327adb9305b8ae56daf65cfee0d43b05b933b6c98518c53005b835fbb"
-metafile = true
-
-[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "f722ea0372d2459a35504422fb4f42945ca7fbcbdaebf0a1feb9d5d276144901"
 metafile = true
@@ -176,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
 metafile = true
 
 [[files]]
