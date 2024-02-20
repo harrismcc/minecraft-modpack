@@ -14,7 +14,7 @@ hash = "88714e6520432199568b80be32afb93d1cf6416a51d19f11d1dbf79d929089d6"
 
 [[files]]
 file = "export/siims-simple-create-1.0.0-beta.5.zip"
-hash = "4928252efe76b9a83a7dbadd4efa8bf0b750e8db8ecade2943df36e241f689a6"
+hash = "53d02cd96f136de515e5709b38bc2003cfcc53f818716ce831e195a395f371db"
 
 [[files]]
 file = "mods/adaptive-tooltips.pw.toml"
@@ -34,6 +34,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "9b9cba3fa724134f59e95816e95b980fe9bc6f30798351f9b0628d463fecda3b"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "18c538fa95d317fd1a64336d77a65e546063fea5f18e6e8bd5093886955b8b11"
 metafile = true
 
 [[files]]
