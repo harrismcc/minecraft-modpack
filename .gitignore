@@ -6,3 +6,6 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# Generated temp.json
+**/temp.json

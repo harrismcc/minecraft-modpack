@@ -18,11 +18,11 @@ hash = "a8bc7c0df277d56c39a97e8bf21c20f10d8b8f8f8b21a7eecc02dae6b4defef3"
 
 [[files]]
 file = "config/bcc.json"
-hash = "42a4d28d0a3c7d29ac51addd4d3071e9844fbe99f53c3c1d9d51b28e43c51efb"
+hash = "a3668cf6621c60fb159c144668b6a0b41041d3371600e1d8c9ca89c55da4d42b"
 
 [[files]]
-file = "export/siims-simple-create-1.0.0-beta.5.zip"
-hash = "405c90eeca69bc8deff0f75684c76a522463cc063d1ac657e75fad8e6f0aa21e"
+file = "export/siims-simple-create-1.0.0-beta.6.zip"
+hash = "92527260f5c928299d23c5be3ef0515e7c0cee5c61f4c93ac3de7cde378a3fed"
 
 [[files]]
 file = "mods/adaptive-tooltips.pw.toml"
@@ -45,6 +45,11 @@ hash = "9b9cba3fa724134f59e95816e95b980fe9bc6f30798351f9b0628d463fecda3b"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "ce1fe1e69721bf56e277be993505956c88c3036e8d826a85eb83d9a3cf8305aa"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "18c538fa95d317fd1a64336d77a65e546063fea5f18e6e8bd5093886955b8b11"
 metafile = true
@@ -52,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "bc6cff8321b751c945afba46e462c09c701d970f1761abc5bbbd507147a66240"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "030b5adce4dd6f31635992d8eebe27b2bae86b14fba1469ad19e1cae473c59df"
 metafile = true
 
 [[files]]
@@ -192,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "e0f5c48f75e5d504d2335a5abc7cb416e1305604de7021077f08cad03ca1f747"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "4fac1756349c0f723621d5c5c1993e0c2b094b3fdff1bcb5006b7f43d803288c"
 metafile = true
 
 [[files]]
