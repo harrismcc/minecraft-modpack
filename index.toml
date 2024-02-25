@@ -22,7 +22,7 @@ hash = "a3668cf6621c60fb159c144668b6a0b41041d3371600e1d8c9ca89c55da4d42b"
 
 [[files]]
 file = "export/siims-simple-create-1.0.0-beta.6.zip"
-hash = "92527260f5c928299d23c5be3ef0515e7c0cee5c61f4c93ac3de7cde378a3fed"
+hash = "fb4b3baf780a5f83b1ee3de433a7bb35a033cb88278c0b76ce1ac72fb296586b"
 
 [[files]]
 file = "mods/adaptive-tooltips.pw.toml"
@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "ce1fe1e69721bf56e277be993505956c88c3036e8d826a85eb83d9a3cf8305aa"
+hash = "fcdcc1bfc1af23091c56610ee17bd9848b78b6c297eabc4de59beb738ef41e15"
 metafile = true
 
 [[files]]
